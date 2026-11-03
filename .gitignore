@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.server/
+.data/
+.env*
+!.env.example
+.npm-cache/
+*.log
+*.sqlite*
+*.db
+.wrangler/
+.vercel/
+.openai/
+auditoria-privada/
+
+.test-demo-*/
